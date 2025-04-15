@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BMI-DS2BITA</string>
+    <string name="welcome">Welcome</string>
+    <string name="your_name">What\'s your name?</string>
+    <string name="next">Next</string>
+    <string name="logo">Application logo</string>
+    <string name="hi">Hi</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_result">Your BMI Result</string>
+    <string name="new_calculate">New calculate</string>
+
+    <string name="under_weight">You are below your ideal weight</string>
+    <string name="normal_weight">You are normal body weight</string>
+    <string name="over_weight">You are slightly overweight</string>
+    <string name="class1_weight">You have Class I obesity</string>
+    <string name="class2_weight">You have Class II obesity</string>
+    <string name="class3_weight">You have Class III obesity</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesity1">Obesity Class I</string>
+    <string name="obesity2">Obesity Class II</string>
+    <string name="obesity3">Obesity Class III</string>
+
+</resources>
